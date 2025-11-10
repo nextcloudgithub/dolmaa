@@ -34,6 +34,6 @@ $(window).on("load", function () {
 });
 
 
-$("button").click(function(){
-  window.location.replace("CardsPage.html");
-});
+//$("button").click(function(){
+//  window.location.replace("CardsPage.html");
+//});
